@@ -1,12 +1,12 @@
 ---
 # Banner
 banner:
-  title: "Iniciando un nuevo proyecto website estática"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Aprende Bitcoin de forma sencilla, práctica, gratuita y en español"
+  content: "Bitcoin no es solo para expertos, sino para cualquier persona que valora la libertad. Tu educación financiera está incompleta sin conocimentos sobre Bitcoin."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Comienza"
     link: "https://github.com/zeon-studio/hugoplate"
 
 # Features
