@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Aprende Bitcoin de forma sencilla, práctica, gratuita y en español"
-  content: "Bitcoin no es solo para expertos, sino para cualquier persona que valora la libertad. Tu educación financiera está incompleta sin conocimentos sobre Bitcoin."
+  title: "Aprende Bitcoin Fácil"
+  content: "Bitcoin no es solo para expertos. Es una herramienta de libertad sin la cual tu educación financiera está incompleta. Creamos este espacio para facilitar el acceso a este conocimiento de forma sencilla, práctica, gratuita y en español."
   image: "/images/banner.png"
   button:
     enable: true
