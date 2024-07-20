@@ -2,46 +2,46 @@
 
 # main menu
 [[main]]
-name = "Home"
-pageRef = "/"
-weight = 1
+name = "Blog"
+pageRef = "/blog"
+weight = 3
 
 [[main]]
 name = "Quienes somos"
 pageRef = "/about"
+weight = 4
+
+[[main]]
+name = "Recursos"
+pageRef = "pages/elements"
 weight = 2
 
 [[main]]
-name = "Elements"
-pageRef = "/elements"
-weight = 3
+weight = 1
+name = "Aprende"
+
+#[[main]]
+#parent = "Aprende"
+#name = "Blog"
+#pageRef = "/blog"
 
 [[main]]
-weight = 4
-name = "Pages"
-
-[[main]]
-parent = "Pages"
-name = "Blog"
-pageRef = "/blog"
-
-[[main]]
-parent = "Pages"
+parent = "Aprende"
 name = "Contact"
 pageRef = "/contact"
 
 [[main]]
-parent = "Pages"
+parent = "Aprende"
 name = "Authors"
 pageRef = "/authors"
 
 [[main]]
-parent = "Pages"
+parent = "Aprende"
 name = "Categories"
 pageRef = "/categories"
 
 [[main]]
-parent = "Pages"
+parent = "Aprende"
 name = "404 Page"
 pageRef = "/404"
 
