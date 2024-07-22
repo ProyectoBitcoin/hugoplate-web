@@ -22,7 +22,11 @@ En las ciudades que se ubicaban en las rutas de comercio, y en los puertos, con 
 
 Para todos los efectos, las monedas de metal cumplían los rasgos simples: portabilidad, durabilidad, fungibilidad, reconocimiento y escasez.
 
-El tiempo y la tecnología permitió cambiar las monedas por la representación de su valor. Nació así el papel moneda (y los bancos). **La creación del papel moneda fue la innovación más importante para la economía por miles de años.** Permitió el comercio entre ciudades mucho más lejanas y, con el nacimiento de los bancos, surgieron otras de las grandes novedades: el crédito y las aseguradoras.
+El tiempo y la tecnología permitió cambiar las monedas por la representación de su valor. Nació así el papel moneda que permitió el comercio entre ciudades mucho más lejanas y, con el nacimiento de los bancos, surgieron otras de las grandes novedades: el crédito y las aseguradoras.
+
+{{< notice "info" >}}
+La creación del papel moneda fue la innovación más importante para la economía por miles de años.
+{{< /notice >}}
 
 ## De las monedas al dinero plástico
 
@@ -36,7 +40,7 @@ En ese entorno, Satoshi Nakamoto propone Bitcoin: un sistema de efectivo electr�
 
 Pero Bitcoin ¿Es dinero?. Repasemos las características:
 
-- **Divisibilidad:** Bitcoin se puede dividir en cien millonésimas partes, llamadas satoshis. También podría dividirse en partes aún más pequeñas, como&nbsp; microsatoshis y milisatoshis, si alguna vez hay la necesidad.
+- **Divisibilidad:** Bitcoin se puede dividir en cien millonésimas partes, llamadas satoshis. También podría dividirse en partes aún más pequeñas, como microsatoshis y milisatoshis, si alguna vez hay la necesidad.
 
 - **Portabilidad:** Bitcoin, al ser digital, es un dinero extremadamente portátil.
 
@@ -46,7 +50,8 @@ Pero Bitcoin ¿Es dinero?. Repasemos las características:
 
 - **Escasez:** Con un tope de 21 millones, la escasez de Bitcoin viene por diseño.
 
-*Le podríamos añadir otras características que lo hacen un dinero fuerte: es descentralizado, no conoce fronteras, es abierto y es resistente a la censura.*
+{{< notice "info" >}}
+Le podríamos añadir otras características que lo hacen un dinero fuerte: es descentralizado, no conoce fronteras, es abierto y es resistente a la censura.
+{{< /notice >}}
 
-La respuesta corta a la pregunta de nuestro título sería: Bitcoin es dinero. La respuesta larga es: posiblemente Bitcoin sea el mejor dinero inventado hasta ahora.
-
+La respuesta corta a la pregunta de nuestro título sería Bitcoin es dinero. La respuesta larga es: posiblemente Bitcoin sea el mejor dinero inventado hasta ahora.
