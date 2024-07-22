@@ -2,14 +2,8 @@
 
 # main menu
 [[main]]
-name = "Blog"
-pageRef = "/blog"
-weight = 3
-
-[[main]]
-name = "Quienes somos"
-pageRef = "/about"
-weight = 4
+weight = 1
+name = "Aprende"
 
 [[main]]
 name = "Recursos"
@@ -17,34 +11,61 @@ pageRef = "pages/elements"
 weight = 2
 
 [[main]]
+name = "Blog"
+pageRef = "/blog"
+weight = 3
+
+[[main]]
+name = "Quienes somos"
+weight = 4
+
+[[main]]
+parent = "Aprende"
+name = "Básico"
+pageRef = "pages/elements"
 weight = 1
-name = "Aprende"
+
+[[main]]
+parent = "Aprende"
+name = "Intermedio"
+pageRef = "pages/elements"
+weight = 2
+
+[[main]]
+parent = "Aprende"
+name = "Cursos y asesorías"
+pageRef = "pages/elements"
+weight = 3
+
+[[main]]
+parent = "Quienes somos"
+name = "Acerca de PB"
+pageRef = "/about"
+
+[[main]]
+parent = "Quienes somos"
+name = "Autores"
+pageRef = "/authors"
 
 #[[main]]
 #parent = "Aprende"
 #name = "Blog"
 #pageRef = "/blog"
 
-[[main]]
-parent = "Aprende"
-name = "Contact"
-pageRef = "/contact"
+#[[main]]
+#parent = "Aprende"
+#name = "Contact"
+#pageRef = "/contact"
 
-[[main]]
-parent = "Aprende"
-name = "Authors"
-pageRef = "/authors"
+#[[main]]
+#parent = "Aprende"
+#name = "Categories"
+#pageRef = "/categories"
 
-[[main]]
-parent = "Aprende"
-name = "Categories"
-pageRef = "/categories"
-
-[[main]]
-parent = "Aprende"
-name = "404 Page"
-pageRef = "/404"
-
+#[[main]]
+#parent = "Aprende"
+#name = "404 Page"
+#pageRef = "/404"
 
 # footer menu
 [[footer]]
