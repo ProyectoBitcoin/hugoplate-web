@@ -1,5 +1,5 @@
 ---
-title: 'Genny Díaz'
+title: "Genny Diaz"
 email: "gennydiazr@gmail.com"
 image: "/images/avatar-genny.jpg"
 description: Periodista especializada en Bitcoin y criptomonedas
