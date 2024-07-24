@@ -1,4 +1,4 @@
-############# English navigation ##############
+############# Spanish navigation ##############
 
 # main menu
 [[main]]
@@ -33,7 +33,7 @@ weight = 2
 
 [[main]]
 parent = "Aprende"
-name = "Cursos y asesorías"
+name = "Mentorías"
 pageRef = "pages/elements"
 weight = 3
 
