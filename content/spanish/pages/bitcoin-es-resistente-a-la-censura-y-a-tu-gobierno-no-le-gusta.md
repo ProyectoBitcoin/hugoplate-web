@@ -2,7 +2,7 @@
 title: "Bitcoin es resistente a la censura y a tu gobierno no le gusta"
 meta_title: "Bitcoin es resistente a la censura | Proyecto Bitcoin"
 date: 2023-02-06 12:37
-author: ""
+author: "Elena Cazes"
 categories: [ABC de Bitcoin]
 tags: ["Bancos","Conceptos Básicos"]
 description: "La razón de ser de los gobiernos es el control, a veces por la fuerza. Una moneda que no tiene 'puertas traseras' y no obedece, es una moneda peligrosa"
@@ -33,3 +33,4 @@ La autonomía económica, la posibilidad de hacer activismo y las organizaciones
 
 En un mundo hipervigilado queda del lado del individuo usar todas las herramientas para conservar la autonomía. Para eso se creó Bitcoin.
 
+<hr>

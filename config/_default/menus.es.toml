@@ -22,13 +22,13 @@ weight = 4
 [[main]]
 parent = "Aprende"
 name = "Básico"
-pageRef = "pages/elements"
+pageRef = "pages/abc-de-bitcoin"
 weight = 1
 
 [[main]]
 parent = "Aprende"
 name = "Intermedio"
-pageRef = "pages/elements"
+pageRef = "pages/intermedio"
 weight = 2
 
 [[main]]
