@@ -3,7 +3,7 @@ title: "¿Qué son las criptomonedas?"
 meta_title: "¿Qué son las criptomonedas? | Proyecto Bitcoin"
 date: 2023-01-25 22:43
 author: "Elena Cazes"
-categories: [ABC de Bitcoin]
+categories: ["ABC de Bitcoin"]
 tags: ["Conceptos Básicos"]
 description: "Dinero digital que no existe en el mundo físico y revolución del mundo financiero. Las criptomonedas han llegado para quedarse"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin intermedio"
+title: "Aprende más"
 meta_title: "Bitcoin intermedio | Proyecto Bitcoin"
 date: 2024-07-23 18:32
 categories: ["Intermedio"]
