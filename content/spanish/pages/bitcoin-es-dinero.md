@@ -2,7 +2,7 @@
 title: "¿Bitcoin es dinero?"
 meta_title: "¿Bitcoin es Dinero? | Proyecto Bitcoin"
 date: 2023-01-24 20:58
-author: ""
+author: "Elena Cazes"
 categories: ["Historia de Bitcoin"]
 tags: ["Dinero", "Conceptos Básicos"]
 description: "El dinero ha evolucionado a lo largo de la historia, Bitcoin es su última versión"
@@ -55,3 +55,5 @@ Le podríamos añadir otras características que lo hacen un dinero fuerte: es d
 {{< /notice >}}
 
 La respuesta corta a la pregunta de nuestro título sería Bitcoin es dinero. La respuesta larga es: posiblemente Bitcoin sea el mejor dinero inventado hasta ahora.
+
+<hr>

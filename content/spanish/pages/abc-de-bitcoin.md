@@ -1,9 +1,10 @@
 ---
 title: "ABC de Bitcoin"
-meta_title: "ABC de Bitocin | Proyecto Bitcoin"
+meta_title: "ABC de Bitcoin | Proyecto Bitcoin"
 date: 2023-03-02 20:13
-categories: [ABC de Bitcoin]
-tags: ["Conceptos Básicos"]
+author: "Proyecto Bitcoin"
+categories: ["ABC de Bitcoin"]
+tags: ["Indice"]
 description: "Empecemos, aquí tienes una lista de las bases necesarias para dar tus primeros pasos"
 
 ---
@@ -12,9 +13,9 @@ Aprende los conceptos básicos del mundo bitcoiner, cómo usar bitcoin y cómo f
 
 {{< image src="/images/Imagen-ABC-2.png" caption="" alt="Salon de clases" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
-* [¿Qué es Bitcoin?]()
+* [¿Qué es Bitcoin?](../que-es-bitcoin)
 
-* [¿Qué son las criptomonedas?]()
+* [¿Qué son las criptomonedas?](../que-son-las-criptomonedas)
 
 * [¿Qué es el dinero?]
 
@@ -36,8 +37,8 @@ Aprende los conceptos básicos del mundo bitcoiner, cómo usar bitcoin y cómo f
 
 * [¿Te puedes hacer rico con Bitcoin?]
 
-* [3 claves para entender Bitcoin]( mañana)
+* [3 claves para entender Bitcoin](../claves_entender_bitcoin)
 
-* [¿Cómo empezar con Bitcoin?](/basic/como-empezar-con-bitcoin/)
+* [¿Cómo empezar con Bitcoin?](../como-empezar-con-bitcoin)
 
 <hr>
