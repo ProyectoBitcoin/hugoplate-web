@@ -25,11 +25,11 @@ Aprende los conceptos básicos del mundo bitcoiner, cómo usar bitcoin y cómo f
 
 * [¿Qué es una wallet de bitcoin?]
 
-* [¿Qué es la minería de Bitcoin?]
+* [¿Qué es la minería de Bitcoin?](../mineria-de-bitcoin-lo-mas-basico)
 
 * [¿Qué le da valor a Bitcoin?]
 
-* [¿Por qué no nos gustan los bancos?]
+* [¿Por qué no nos gustan los bancos?](../por-que-no-nos-gustan-los-bancos)
 
 * [Bitcoin es resistente a la censura y a tu gobierno no le gusta](../bitcoin-es-resistente-a-la-censura-y-a-tu-gobierno-no-le-gusta)
 
