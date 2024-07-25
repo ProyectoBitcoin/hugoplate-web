@@ -15,11 +15,19 @@ Aprende los conceptos básicos del mundo bitcoiner, cómo usar bitcoin y cómo f
 
 * [¿Qué es Bitcoin?](../que-es-bitcoin)
 
+* [¿Qué es Bitcoin?Fácil y rápido](../que-es-bitcoin-facil-y-en-5-minutos)
+
 * [¿Qué son las criptomonedas?](../que-son-las-criptomonedas)
 
-* [¿Qué es el dinero?]
+* [¿Qué es blockchain?](../que-es-blockchain)
 
-* [¿Qué es el Libro blanco de Bitcoin?]
+* [¿Qué es el dinero?](../que-es-el-dinero)
+
+* [¿Qué es el dinero?(Video)](../que-es-el-dinero-2)
+
+* [¿Qué es el Libro blanco de Bitcoin?](../que-es-el-libro-blanco-de-bitcoin)
+
+* [¿Qué es el Libro blanco de Bitcoin?(Video)](../que-es-el-libro-blanco-de-bitcoin-2)
 
 * [¿Bitcoin es dinero?](../bitcoin-es-dinero)
 

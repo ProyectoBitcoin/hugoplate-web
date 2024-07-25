@@ -12,7 +12,6 @@ En general, la opinión que tienen los bitcoiners de los bancos es bastante adve
 
 Podríamos decir que, por sus características de funcionamiento, los bancos fueron, en parte, responsables del nacimiento de Bitcoin.
 
-
 ## ¿Cómo funciona un Banco?
 
 El modelo de **negocio de un banco está basado en el préstamo**. Ellos son los encargados de ofrecer liquidez a cambio de un retorno con intereses. El detalle está en que el dinero que prestan no es el suyo, es el tuyo.

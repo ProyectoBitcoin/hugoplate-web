@@ -55,3 +55,5 @@ Existen múltiples variedades de intercambios entre pares, desde plataformas a r
 Trabajar o vender productos a cambio de bitcoin es una opción sencilla y, aunque no lo creas, factible, de obtener tus primeros bitcoin.
 
 Como puedes ver, recursos no faltan. ¡Anímate!
+
+<hr>
