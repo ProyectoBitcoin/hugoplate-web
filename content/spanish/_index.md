@@ -7,20 +7,17 @@ banner:
   button:
     enable: true
     label: "Comienza"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "/"
 
 # Features
 features: 
   - title: "ABC de Bitcoin"
     image: "/images/ABC-bitcoin.png"
-    content: "Aprende los conceptos básicos del mundo bitcoiner, cómo usar bitcoin y cómo funciona su tecnología. Entiende su filosofía y por qué es el mejor dinero del mundo."
+    content: "Aprende los conceptos básicos del mundo bitcoiner, cómo usar bitcoin y cómo funciona su tecnología. Entiende su filosofía y por qué es el mejor dinero del mundo:"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Visión general"
+      - "Fundamentos"
+      - "Primeros pasos"
     button:
       enable: true
       label: "Ir a nivel básico"
@@ -28,29 +25,23 @@ features:
 
   - title: "Aprende más"
     image: "/images/aprende-mas.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Avancemos un paso más. Profundiza en la red global de Bitcoin, y aprende a realizar intercambios de forma segura y soberana:"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Conoce las wallets más usadas"
+      - "Conoce Lightning Network"
+      - "Corre tu propio nodo"
     button:
       enable: true
       label: "Ir a nivel intermedio"
       link: "/es/intermedio"
       
   - title: "Mentorías personalizadas"
-    image: "/images/mentorias.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    image: "/images/mentorias-v2.png"
+    content: "En este espacio te ofrecemos una gran cantidad de recursos gratuitos para ayudarte a comenzar tu viaje de aprendizaje. Pero si buscas ayuda adicional con un enfoque más personalizado, te invitamos a explorar nuestras mentorías:"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Recibe acompañamiento paso a paso"
+      - "Profundiza en seguridad"
+      - "Resuelve dudas, y más"
     button:
       enable: true
       label: "solicitar"
