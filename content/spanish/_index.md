@@ -27,7 +27,7 @@ features:
     image: "/images/aprende-mas.png"
     content: "Avancemos un paso más. Profundiza en la red global de Bitcoin, y aprende a realizar intercambios de forma segura y soberana:"
     bulletpoints:
-      - "Conoce las wallets más usadas"
+      - "Explora las wallets más usadas"
       - "Conoce Lightning Network"
       - "Corre tu propio nodo"
     button:
