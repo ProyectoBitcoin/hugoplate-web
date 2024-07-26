@@ -9,8 +9,6 @@ description: "Empecemos, aquí tienes una lista de las bases necesarias para dar
 
 ---
 
-Aprende los conceptos básicos del mundo bitcoiner, cómo usar bitcoin y cómo funciona su tecnología. Entiende su filosofía y por qué es el mejor dinero del mundo.
-
 {{< image src="/images/Imagen-ABC-2.png" caption="" alt="Salon de clases" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 * [¿Qué es Bitcoin?](../que-es-bitcoin)

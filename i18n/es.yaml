@@ -2,13 +2,13 @@ home: Home
 read_more: Leer Más
 send: Enviar
 related_posts: Posts Relacionados
-categories: Categories
-tags: Tags
+categories: Categorías
+tags: Etiquetas
 toc: Tabla de Contenido
 share: Compartir
 search_input_placeholder: Buscar Post...
 search_no_results: Ningún resultado para
 search_initial_message: Escribe algo para buscar..
-search_navigate: to navigate
-search_select: to select
-search_close: to close
+search_navigate: navegar
+search_select: seleccionar
+search_close: cerrar
