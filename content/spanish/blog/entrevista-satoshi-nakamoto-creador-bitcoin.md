@@ -3,9 +3,7 @@ title: "Mi Entrevista con Satoshi Nakamoto, Creador Bitcoin"
 meta_title: "Entrevista a Satoshi Nakamoto, Creador Bitcoin | Proyecto Bitcoin"
 description: "Este artículo contiene declaraciones y fragmentos de documentos reales de Satoshi Nakamoto."
 date: 2024-07-18T12:33:55-04:00
-image: "/images/cover-entrevista-satoshi-1280x720.png"
-alt: 'Set de un noticiero de tv donde una periodista entrevista a un programador con un bitcoin en las manos'
-caption: 'Si tuvieses la oportunidad de hacerle una pregunta al creador de Bitcoin, ¿cuál sería?'
+image: "images/cover-entrevista-satoshi-1280x720.png"
 categories: ['Historia de Bitcoin']
 author: "Genny Diaz"
 tags: ['entrevista', 'Satoshi Nakamoto']
