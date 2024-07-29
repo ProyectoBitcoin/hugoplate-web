@@ -1,7 +1,7 @@
 ---
 title: "Acerca de Nosotros"
 meta_title: "Acerca de Proyecto Bitcoin"
-description: "Bitcoin es una herramienta de libertad y por lo tanto, es un derecho humano. Cualquier persona debería poder acceder al conocimiento adecuado para usarlo de forma segura y sin restricciones."
+description: "Bitcoin es una herramienta de libertad y por lo tanto, un derecho humano. Cualquier persona debería tener acceso al conocimiento adecuado para usarlo de forma segura y sin restricciones."
 image: "/images/logo-fondo-naranja.png"
 draft: false
 ---
